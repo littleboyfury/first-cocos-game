@@ -132,9 +132,9 @@ export class GameManager extends Component {
 
   end(isDead: boolean) {
     if (isDead) {
-      this.aliveLabel.string = 'DEAD!!!'
+      this.aliveLabel.string = '你掉入了无尽深渊，请重新开始!!!'
     } else {
-      this.aliveLabel.string = 'SUCCESS!!!'
+      this.aliveLabel.string = '恭喜你成功完成了挑战!!!'
     }
     this.setCurState(GameState.GS_INIT)
   }

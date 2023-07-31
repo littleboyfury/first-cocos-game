@@ -1360,7 +1360,7 @@
       "b": 0,
       "a": 255
     },
-    "_string": "Play",
+    "_string": "开始",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 20,
@@ -1573,7 +1573,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 327.64,
+      "width": 120,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -1602,7 +1602,7 @@
       "b": 0,
       "a": 255
     },
-    "_string": "Mind Your Step 2d",
+    "_string": "跳一跳",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 40,
@@ -1679,7 +1679,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 297.91,
+      "width": 160,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -1708,7 +1708,7 @@
       "b": 0,
       "a": 255
     },
-    "_string": "Mouse Left Click: Jump One Step",
+    "_string": "鼠标左键：跳一步",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 20,
@@ -1785,7 +1785,7 @@
     "__prefab": null,
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 310.12,
+      "width": 160,
       "height": 50.4
     },
     "_anchorPoint": {
@@ -1814,7 +1814,7 @@
       "b": 0,
       "a": 255
     },
-    "_string": "Mouse Right Click: Jump Two Step",
+    "_string": "鼠标右键：跳两步",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 20,

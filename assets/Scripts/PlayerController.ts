@@ -66,7 +66,6 @@ export class PlayerController extends Component {
       const clipName = step === 1 ? 'oneStep' : 'twoStep'
       const state = this.BodyAnim.getState(clipName)
       this._jumpTime = state.duration
-
     }
     this._curJumpSpeed = this._jumpStep * BLOCK_SIZE / this._jumpTime
     this.node.getPosition(this._curPos)
